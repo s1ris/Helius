@@ -1,0 +1,15 @@
+Package: org.thebigboss.helius2
+Name: Helius 2
+Depends: mobilesubstrate, firmware (>7.0)
+Conflicts: org.thebigboss.spin, org.thebigboss.helius
+Version: 1.0-1
+Architecture: iphoneos-arm
+Description:  A new kind lock screen media controls
+ Compatible with all iPhones and iPod 5 on iOS 7 and 8.
+ iPad compatibility coming soon!
+ 
+ Helius 2 takes you default lock screen media controls and gives them a fresh new look, all over again. Helius 2 is a complete rewrite of the original tweak, featuring support for both iOS 7 and 8. Helius supports all third party music applications and integrates itself perfectly into the lock screen.
+ 
+ Configure options from the settings app.
+Author: s1ris & Phillip Tennen
+Section: Tweaks

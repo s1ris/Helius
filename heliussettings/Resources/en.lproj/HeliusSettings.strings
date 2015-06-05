@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>A</key>
+	<string>Thanks to @b3ll for the background artwork code. You will need to respring to toggle background artwork.</string>
+	<key>B</key>
+	<string>Enabled</string>
+	<key>C</key>
+	<string>Background artwork</string>
+	<key>D</key>
+	<string>Helius 2 © 2015 s1ris &amp; Phillip Tennen</string>
+	<key>E</key>
+	<string>Email</string>
+</dict>
+</plist>

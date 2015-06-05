@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string>A</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>org.thebigboss.helius2settings</string>
+			<key>key</key>
+			<string>master</string>
+			<key>label</key>
+			<string>B</string>
+			<key>PostNotification</key>
+			<string>org.thebigboss.helius/settings.changed</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>org.thebigboss.helius2settings</string>
+			<key>key</key>
+			<string>artwork</string>
+			<key>label</key>
+			<string>C</string>
+			<key>PostNotification</key>
+			<string>org.thebigboss.helius/settings.changed</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string>D</string>
+		</dict>
+		<dict>
+			<key>action</key>
+			<string>email</string>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>icon</key>
+			<string>email.png</string>
+			<key>label</key>
+			<string>E</string>
+		</dict>
+	</array>
+	<key>title</key>
+	<string>Helius 2</string>
+</dict>
+</plist>
